@@ -4,4 +4,8 @@ Git has a mutable index called stage
 git trunk of file.
 my stup boss.
 work on branch.
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Creating a new branch is quick and simple.
+=======
+Creating a new branch is quick and simple.
+>>>>>>> feature1
